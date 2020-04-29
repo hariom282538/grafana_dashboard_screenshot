@@ -13,7 +13,7 @@ URL: expected grafana UI URL
 Sample Input 
 ```bash
 curl --request GET --url 'http://localhost:3000/grafana'
-sh runQGrafanaScraper.sh
+sh runGrafanaScraper.sh
 ```
 
 Sample Output
